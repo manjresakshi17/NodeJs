@@ -1,0 +1,18 @@
+[{"username":"sakshi1",
+"roles":{
+    "User":2001},
+"password":"$2b$10$oEbHZlazDHE1YnnJ4XdpGuGh9a/JZOO7Xe6WZtRRsSMgprxMXnKza",
+"refreshToken":"0b0cc8f4a8df4aa661d96bb682d260bab0984f7579b3629876dee193115e0db6f69315753a13f22af32bbfb6acd31c59d5e0705d68ee1d13545946aa3cd5a4ae"},
+
+{"username":"sakshi2",
+"roles":{
+    "User":2001,"Editor":1984},
+"password":"$2b$10$cvfmz./teMWDccIMChAxZ.HqgL3eoQGYTm1z9lGy5iRf8D7NNargC",
+"refreshToken":"fe7855aaed1497947a05e13884ee25be38f07ba1007dbf257cf5d16e968bb31f629573e48c04423be9968cb39aa072a20c4bfe7de2e8827a749f176ebb19869a"},
+
+{"username":"sakshi3",
+"roles":{
+    "User":2001,"Editor":1984,"Admin":5150},
+"password":"$2b$10$33Q9jtAoaXC4aUX9Bjihxum2BHG.ENB6JyoCvPjnuXpITtUd8x8/y",
+"refreshToken":"277f266fef4979c9134922e94c106101a70653e7628361bc6d85e33130864aee7862b5145af6fd983842d3992362eab0a6ce66a5e559d79072ee99d237d4b17a"}
+]
